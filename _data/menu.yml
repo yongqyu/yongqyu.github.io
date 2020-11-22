@@ -2,12 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: no name yet
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: There is no description yet.
+      - title: develop, howl, review, etc.
+        # url: https://github.com/riggraz/no-style-please
+      # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
     post_list:
@@ -16,23 +16,39 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: develop
     post_list:
-      category: example2
+      category: develop
+      limit: 5
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: develop-archive.html
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: howl
+    post_list:
+      category: howl
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: howl-archive.html
+
+  - title: review
+    post_list:
+      category: review
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: review-archive.html
+
+  - title: author
     entries:
-      - title: with subitems
+      - title: Yonggyu Park
+      - title: AI Engineer
+      - title: Contacts
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+        - title: @yongqyu
+        - title: yongqyu@gmail.com
+        # entries:
+        #   - title: with subsubitems
+        #   - title: example page
+        #     url: about

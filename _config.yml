@@ -1,8 +1,8 @@
-title: no name # name of the site
-author: Yongqyu Park # name of site's author
+title: no name yet # name of the site
+author: Yonggyu Park # name of site's author
 email: yongqyu@gmail.com # email of site's author
 url: https://yongqyu.github.io # root address of the site
-baseurl: "/noname" # subpath of the site, e.g. "/blog"
+baseurl: "/nonameyet" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   There is no description yet.
 
