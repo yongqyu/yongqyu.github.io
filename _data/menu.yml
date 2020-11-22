@@ -4,7 +4,7 @@
 entries:
   - title: no name yet
     entries:
-      - title: There is no description yet.
+      - title: There is no name yet.
       - title: develop, howl, review, etc.
         # url: https://github.com/riggraz/no-style-please
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
@@ -46,7 +46,7 @@ entries:
       - title: AI Engineer
       - title: Contacts
         entries:
-          - title: yongqyu
+          - title: "@"yongqyu
           - title: yongqyu@gmail.com
         # entries:
         #   - title: with subsubitems
