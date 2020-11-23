@@ -1,5 +1,7 @@
+<script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 <script>
-const GH_API_URL = 'https://api.github.com/repos/aristath/aristath.github.com/issues/5/comments?client_id=28c0cc5efbcbd0eec829&client_secret=49ea3ed25810a984908d12ec9d77bbce3314a47e';
+
+const GH_API_URL = 'https://api.github.com/repos/yongqyu/yongqyu.github.com/issues/{{page.comment_id}}/comments';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
@@ -24,11 +26,19 @@ function createCommentEl( response ) {
 	user.setAttribute( 'href', response.user.url.replace( 'api.github.com/users', 'github.com' ) );
 	user.classList.add( 'user' );
 
-	let userAvatar = document.createElement( 'img' );
-	userAvatar.classList.add( 'avatar' );
-	userAvatar.setAttribute( 'src', response.user.avatar_url );
+	// let userAvatar = document.createElement( 'img' );
+	// userAvatar.classList.add( 'avatar' );
+	// userAvatar.setAttribute( 'src', response.user.avatar_url );
+  //
+	// user.appendChild( userAvatar );
 
-	user.appendChild( userAvatar );
+  let userName = document.createElement('a');
+	userName.setAttribute('href', response.user.html_url);
+	userName.innerHTML = response.user.login;
+	let t = document.createTextNode(' wrote:');
+
+	user.appendChild(userName);
+	user.appendChild(t);
 
 	let commentLink = document.createElement( 'a' );
 	commentLink.setAttribute( 'href', response.html_url );
@@ -38,6 +48,12 @@ function createCommentEl( response ) {
 	let commentContents = document.createElement( 'div' );
 	commentContents.classList.add( 'comment-content' );
 	commentContents.innerHTML = response.body;
+
+  // Progressive enhancement.
+	if (window.showdown) {
+		let converter = new showdown.Converter();
+		commentContents.innerHTML = converter.makeHtml(response.body);
+	}
 
 	let comment = document.createElement( 'li' );
 	comment.setAttribute( 'data-created', response.created_at );
@@ -58,6 +74,6 @@ request.send();
 <div class="github-comments">
 	<h2>Comments</h2>
 	<ul id="gh-comments-list"></ul>
-	<p id="no-comments-found">No comments found for this article. Comments posted before 2019-09-15 are no longer available due to a system migration since I no longer use Disqus for comments.</p>
-	<p id="leave-a-comment">Join the discussion for this article on <a href="https://github.com/aristath/aristath.github.com/issues/5">this ticket</a>. Comments appear on this page instantly.</p>
+	<p id="no-comments-found">No comments found for this article. </p>
+	<p id="leave-a-comment"><a href="https://github.com/yongqyu/yongqyu.github.com/issues/{{page.comment_id}}">Post comment (Github)</a></p>
 </div>
