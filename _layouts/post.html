@@ -12,17 +12,9 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   {{ content }}
+
+  {% if page.comments_id %}
+    {% include comments.html %}
+  {% endif %}
+
 </article>
-
-<section class="single">
-
-	<div class="wrap">
-
-		{{ page.content }}
-
-		{% if page.comments_id %}
-			{% include comments.html %}
-		{% endif %}
-	</div>
-
-</section>

@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments_id: 201123
 ---
 
 This post is strange
