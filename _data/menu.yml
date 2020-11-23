@@ -2,10 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: no name yet
+  - title: info
     entries:
       - title: There is no name yet.
-      - title: develop, howl, review, etc.
+      - title: develop, invest, review, etc.
         # url: https://github.com/riggraz/no-style-please
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
@@ -19,15 +19,15 @@ entries:
   - title: develop
     post_list:
       category: develop
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See more posts...
       show_more_url: develop-archive.html
 
-  - title: howl
+  - title: invest
     post_list:
-      category: howl
-      limit: 5
+      category: invest
+      limit: 3
       show_more: true
       show_more_text: See more posts...
       show_more_url: howl-archive.html
@@ -35,7 +35,7 @@ entries:
   - title: review
     post_list:
       category: review
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See more posts...
       show_more_url: review-archive.html
