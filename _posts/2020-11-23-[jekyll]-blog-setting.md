@@ -1,19 +1,17 @@
 ---
 layout: post
-category: develop
 comments_id: 201123
 ---
 
 블로그를 시작한다. 용도는 아직 미정이나, 의도는 알찬 방과 후 삶을 위한 기록용이다.
 
-블로그는 github pages를 통해 생성했고, jekyll을 통해 여러가지 기능을 쓰고있다.  
-theme은 가장 간단한 [riggraz의 no-style-please](https://github.com/riggraz/no-style-please)를 사용했다.  
-추가로 댓글 기능과 통계 기능이 필요하다 생각했는데, 통계 기능은 theme에서 [goat counter](https://www.goatcounter.com) 를 지원해 활성화. 댓글은 [aristath](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)의 것을 추가했다.  
+블로그는 github pages를 통해 생성했고, jekyll을 통해 여러가지 기능을 쓰고있다. theme은 가장 간단한 [riggraz의 no-style-please](https://github.com/riggraz/no-style-please)를 사용했다.  
+추가로 댓글 기능과 통계 기능이 필요했는데, 통계 기능은 theme에서 [goat counter](https://www.goatcounter.com)를 지원해 활성화. 댓글은 [aristath](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)의 것을 추가했다.  
 파일 이름 및 구조가 시스템의 구조를 대변하고 있으나, 프로세스를 이해하지는 않는다. 추후 블로그 업데이트가 없는한 (블로그와 이해도를) 현 상태로 유지하려 한다.
 
 ---
 
-md를 활용한 포스팅이라 포맷은 익숙하다. 하지만 활용은 매번 구글링을 통했기에 몇가지 활용법을 남긴다.  
+md를 활용한 포스팅이라 포맷은 익숙하나 활용은 매번 구글링을 통했기에 몇가지 활용법을 남긴다.  
 * 링크 : \[name\]\(link\)
 * 인용 : \> blockqute
 * 코드 : \`\`\` code \`\`\`
