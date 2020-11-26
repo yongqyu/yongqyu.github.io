@@ -1,7 +1,7 @@
 <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 <script>
 
-const GH_API_URL = 'https://api.github.com/repos/yongqyu/yongqyu.github.com/issues/{{page.comment_id}}/comments';
+const GH_API_URL = 'https://api.github.com/repos/yongqyu/yongqyu.github.io/issues/{{page.comments_id}}/comments';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
@@ -75,5 +75,5 @@ request.send();
 	<h2>Comments</h2>
 	<ul id="gh-comments-list"></ul>
 	<p id="no-comments-found">No comments found for this article. </p>
-	<p id="leave-a-comment"><a href="https://github.com/yongqyu/yongqyu.github.com/issues/{{page.comment_id}}">Post comment (Github)</a></p>
+	<p id="leave-a-comment"><a href="https://github.com/yongqyu/yongqyu.github.io/issues/{{page.comments_id}}">Post comment (Github)</a></p>
 </div>
