@@ -1,6 +1,7 @@
 ---
 layout: post
-comments_id: 201123
+category: develop
+comments_id: 2
 ---
 
 블로그를 시작한다. 용도는 아직 미정이나, 의도는 알찬 방과 후 삶을 위한 기록용이다.

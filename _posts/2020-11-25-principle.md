@@ -1,7 +1,7 @@
 ---
 layout: post
 category: invest
-comments_id: 201125
+comments_id: 3
 ---
 
 1. 정해진 미래에 투자한다.
