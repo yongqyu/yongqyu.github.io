@@ -5,7 +5,7 @@ entries:
   - title: info
     entries:
       - title: There is no name yet.
-      - title: develop, invest, review, etc.
+      - title: develop, invest, novel, etc.
         # url: https://github.com/riggraz/no-style-please
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
@@ -32,13 +32,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: howl-archive.html
 
-  - title: review
+  - title: novel
     post_list:
-      category: review
+      category: novel
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: review-archive.html
+      show_more_url: novel-archive.html
 
   - title: author
     entries:
