@@ -5,7 +5,7 @@ entries:
   - title: info
     entries:
       - title: There is no name yet.
-      - title: develop, invest, novel, etc.
+      - title: develop, invest, note, etc.
         # url: https://github.com/riggraz/no-style-please
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
@@ -22,7 +22,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: develop.html
+      show_more_url: archive.html
 
   - title: invest
     post_list:
@@ -30,7 +30,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: invest.html
+      show_more_url: archive.html
 
   - title: note
     post_list:
@@ -38,7 +38,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: note.html
+      show_more_url: archive.html
 
   - title: author
     entries:
