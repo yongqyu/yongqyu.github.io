@@ -22,7 +22,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: develop-archive.html
+      show_more_url: develop.html
 
   - title: invest
     post_list:
@@ -30,15 +30,15 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: howl-archive.html
+      show_more_url: invest.html
 
-  - title: novel
+  - title: note
     post_list:
-      category: novel
+      category: note
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: novel-archive.html
+      show_more_url: note.html
 
   - title: author
     entries:
