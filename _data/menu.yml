@@ -22,7 +22,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: archive.html
+      show_more_url: develop-archive.html
 
   - title: invest
     post_list:
@@ -30,7 +30,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: archive.html
+      show_more_url: invest-archive.html
 
   - title: note
     post_list:
@@ -38,7 +38,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: archive.html
+      show_more_url: note-archive.html
 
   - title: author
     entries:
