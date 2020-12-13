@@ -6,7 +6,7 @@ comments_id: 4
 
 ### 인기 화이트 품종
 출처
-* [와인쟁이부부의 재밌는 와인 - 레드 품종 TOP 5 파헤치기!](https://audioclip.naver.com/channels/480/clips/6)  
+* [와인쟁이부부의 재밌는 와인 - 화이트 품종 TOP 5 파헤치기!](https://audioclip.naver.com/channels/480/clips/7)
 * [WINE FOLLY, Madeline Puckette,Justin Hammack, 영진닷컴](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=222674009)
 
 #### 1. Chardonnay
