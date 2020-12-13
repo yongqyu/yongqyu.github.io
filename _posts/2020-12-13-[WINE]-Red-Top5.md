@@ -4,7 +4,7 @@ category: note
 comments_id: 4
 ---
 
-### 인기 레드 품종 Top 5
+### 인기 레드 품종
 1. Cabernet Sauvignon
   * France Bordeaux West
   * 껍질이 두꺼워 탄닌이 많아 장기숙성 가능

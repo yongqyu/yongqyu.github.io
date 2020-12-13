@@ -4,7 +4,7 @@ category: note
 comments_id: 4
 ---
 
-### 인기 화이트 품종 Top 5
+### 인기 화이트 품종
 1. Chardonnay
   * France Bourgogne
   * 환경에 따른 차이가 큼
