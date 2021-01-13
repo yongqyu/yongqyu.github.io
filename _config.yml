@@ -4,7 +4,7 @@ email: yongqyu@gmail.com # email of site's author
 url: https://yongqyu.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  There is no name yet.
+  to have a fixed future.
 
 permalink: /:slug.html
 
