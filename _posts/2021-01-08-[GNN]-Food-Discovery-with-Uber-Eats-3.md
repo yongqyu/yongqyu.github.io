@@ -8,7 +8,7 @@ Uber Engineering Blog
 Ankit Jain, Isaac Liu, Ankur Sarda, and Piero Molino  
 December 4, 2019
 
-아래 글은 위 글의 비공식 약식 번역본 입니다.
+이 글은 비공식 번역문 입니다.
 
 *[previous post 1](https://yongqyu.github.io/gnn-food-discovery-with-uber-eats-1.html)*  
 *[previous post 2](https://yongqyu.github.io/gnn-food-discovery-with-uber-eats-2.html)*

@@ -8,7 +8,7 @@ The New York Times *TECH FIX*
 [Brian X. Chen](https://www.nytimes.com/by/brian-x-chen)   
 Jan. 6, 2021
 
-아래 글은 위 글의 비공식 번역본 입니다.
+이 글은 비공식 번역문 입니다.
 
 -----------------------------------------------------
 
