@@ -8,11 +8,10 @@ comments_id: 4
 * [와인쟁이부부의 재밌는 와인 - 스파클링 와인에 대해서](https://audioclip.naver.com/channels/480/clips/32)
 * [WINE FOLLY, Madeline Puckette,Justin Hammack, 영진닷컴](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=222674009)
 
-### Define
+#### Definition
   * 탄산이 있는 와인
   * EU - 탄산가스 압력이 3기압 이상
 
-### Method
 #### Champagne Method
   * Chardonnay, Pinot Noir, Pinot Meunier 
   * 각각 1차 발효
@@ -28,7 +27,7 @@ comments_id: 4
   * 대형 탱크에서 2차 발효 후 병입
   * 저렴이
   
-### Sparkling Wines
+#### Sparkling Wines
   * France
     * Champane : Champagne
     * Cremant : Loire, Alsace, Bourgogne, Rhône 등
@@ -36,7 +35,7 @@ comments_id: 4
     * Spumante
     * Prosecco : Veneto
     * Moscato d'Asti
-      * Frizzante : 약발포성
+      * Frizzante = 약발포성
       * 1차 발효 후 효모를 제거
       * 탱크로 옮겨 2차 발효
   * Spain
