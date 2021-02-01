@@ -10,6 +10,8 @@ Nov 25, 2019
 
 이 글은 비공식 번역문 입니다.
 
+*[previous post](https://yongqyu.github.io/mldl-mrr-vs-map-vs-ndcg-rank-aware-evaluation-metrics-and-when-to-use-them-1.html)*
+
 -----------------------------------------------------
 
 ## MRR: Mean Reciprocal Rank
