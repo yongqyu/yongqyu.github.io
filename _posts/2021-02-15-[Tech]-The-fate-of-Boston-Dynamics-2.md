@@ -10,7 +10,7 @@ DEC 15, 2020
 
 이 글은 비공식 번역문 입니다.
 
-*[previous post 1](https://yongqyu.github.io/tech-the-fate-of-boston-dynamics-1.html)*  
+*[previous post](https://yongqyu.github.io/tech-the-fate-of-boston-dynamics-1.html)*  
 
 -----------------------------------------------------
 
