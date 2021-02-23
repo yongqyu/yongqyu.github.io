@@ -10,7 +10,7 @@ Jan 14, 2021
 이 글은 비공식 번역문 입니다.
 
 *[previous post 1](https://yongqyu.github.io/mldl-mlops-what-it-is-why-it-matters-and-how-to-implement-it-1.html)*  
-*[previous post 1](https://yongqyu.github.io/mldl-mlops-what-it-is-why-it-matters-and-how-to-implement-it-2.html)*  
+*[previous post 2](https://yongqyu.github.io/mldl-mlops-what-it-is-why-it-matters-and-how-to-implement-it-2.html)*  
 
 -----------------------------------------------------
 
@@ -20,8 +20,8 @@ MLOps는 필수적이다. 기계 학습은 개인과 비즈니스가 더 효율�
 
 ## MLOps best practices
 
-가장 먼저, 나는 딱 10개의 베스트 예제를 원했지만, 어느정도 찾아보니 최고의 예제를 다양한 ML 파이프라인 구성요소 (팀, 데이터, 오브젝트, 모델, 코드, 배포) 별로 다루는 것이 낫겠다고 결론지었다. 다음 리스트가 다양한 출처의 참고자료에서 언급된 것을 추린 것이다.:
-<원문 참조>
+가장 먼저, 나는 딱 10개의 베스트 예제를 원했지만, 어느정도 찾아보니 최고의 예제를 다양한 ML 파이프라인 구성요소 (팀, 데이터, 오브젝트, 모델, 코드, 배포) 별로 다루는 것이 낫겠다고 결론지었다. 다음 리스트가 다양한 출처의 참고자료에서 언급된 것을 추린 것이다.:  
+> [원문](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective?utm_source=reddit&utm_medium=post&utm_campaign=blog-mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective&utm_content=deeplearning) 참조
 
 ## How to implement MLOps
 
